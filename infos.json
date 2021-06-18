@@ -487,6 +487,19 @@
             "key_misc_headset_devinput": true,
             "key_misc_backlight_scale": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Motorola/nairo_retail*",
+        "device_name": "Moto g 5g Plus",
+        "maintainer": {
+            "name": "LegacyGamerHD",
+            "telegram": "https://t.me/LegacyGamerHD"
+     },
+        "preferences": {
+	    "key_qualcomm_alternate_audiopolicy": true,
+	    "key_misc_force_a2dp_offload_disable": true
+        }
     }
 ]
 
